@@ -2,8 +2,8 @@
 Android Floating Widget Service
 
 # Screenshots
-[!Screenshot](https://github.com/hu2di/android-floating-widget/blob/master/Screenshots/Screenshot_20170328-175503.png)
-[Screenshot](https://github.com/hu2di/android-floating-widget/blob/master/Screenshots/Screenshot_20170328-175508.png)
+[!ScreenShot](https://github.com/hu2di/android-floating-widget/blob/master/Screenshots/Screenshot_20170328-175503.png)
+[!ScreenShot](https://github.com/hu2di/android-floating-widget/blob/master/Screenshots/Screenshot_20170328-175508.png)
 
 # About
 Created by HuyHung Dinh<br>
